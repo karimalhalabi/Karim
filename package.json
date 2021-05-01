@@ -1,0 +1,46 @@
+{
+  "name": "packegedjobtest",
+  "version": "1.0.0",
+  "description": "a test project for a job",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.html"
+  },
+  "keywords": [
+    "job",
+    "test",
+    "grid",
+    "api",
+    "css",
+    "html",
+    "js",
+    "package",
+    "training",
+    "SPA",
+    "mobile",
+    "tablet",
+    "disktop",
+    "laptop"
+  ],
+  "author": "Abdulkarim Alhalabi",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.2.2",
+    "core-js": "^3.11.1",
+    "css-loader": "^5.2.4",
+    "file-loader": "^6.2.0",
+    "html-minimizer-webpack-plugin": "^2.1.0",
+    "html-webpack-plugin": "^5.3.1",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.36.2",
+    "webpack-cli": "^4.6.0",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "devDependencies": {
+    "@webpack-cli/generators": "^2.0.0",
+    "copy-webpack-plugin": "^8.1.1",
+    "raw-loader": "^4.0.2"
+  }
+}
